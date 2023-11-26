@@ -1,0 +1,22 @@
+abdullah
+abdullah
+
+Personal Details:-
+Name :- Abdullah Lahaji
+Gender :- Male
+Home Town :- Jintur
+Age :- 23
+Date Of Birth :- 14/08/2000
+
+Educational Details:-
+Collage Name :- SCOEP
+Joining Year :- 2020
+Passout Year :- 2023
+Cgpa :- 8.82
+Salary :- Pune
+
+Professional Details:-
+Company Name :- NoN
+Joining Year :- 00
+Experience :- 00
+Salary :- 00

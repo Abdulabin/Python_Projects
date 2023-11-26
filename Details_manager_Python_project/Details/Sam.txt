@@ -1,0 +1,22 @@
+sam
+sam
+
+Personal Details:-
+Name :- a
+Gender :- asaa
+Home Town :- as
+Age :- as
+Date Of Birth :- as
+
+Educational Details:-
+Collage Name :- sa
+Joining Year :- aa
+Passout Year :- sa
+Cgpa :- as
+Salary :- a
+
+Professional Details:-
+Company Name :- a
+Joining Year :- sa
+Experience :- s
+Salary :- s
